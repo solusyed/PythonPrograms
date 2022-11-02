@@ -1,0 +1,46 @@
+PYTON:
+    Python is an interpreted, ObjectOriented programing language developed by
+"GUIDO VAN ROSSUM" in 1991. Python interpreted is dynamic and multipurpose programming language,
+because it can be used in 3d,CAD etc. When compare to many programing languages python is easy to learn.
+while compare to other programing languages python is free of cost (open source).
+
+Python Applications:
+1) 3D cad applications
+2) Audio (or) video based applications
+3) Web Enterprisers
+
+In python, we have a different data type and operators.
+     Python we have different data types:
+      1) Premitive data type
+      2) Non-premitive data type
+
+ Premitive data types:
+           premitive data type is defined as the data types which was already built
+in the programming languages.
+  Example:
+          i)Integer-int(numerical values,not decimal values)
+         ii)String-str(collection of different characters)
+        iii)Float -float(decimal values of integer)
+         iv)Boolean -bool(true or false statements)
+
+NON-premitive data types:
+               is defined as the data types which place with multiple premitive data types.
+  Example:
+         i)List
+        ii)Set
+       iii)Tuple
+        iv)Dictionary
+
+Python operators:
+ in python, operators are used to perform the operations with different data(data types) in programming languages.
+       a)Arthimetaic operator - (add, sub, multiplication, division, modulus, floordivision)
+       b)Assignment operator  - (=, +=,-=,*=,/=)
+       c)Relational operator  - (<,>,==,<=,>=,!=)
+       d)unary operator       -
+       e)logic operator	   - (and,or,not)
+
+
+
+
+
+
