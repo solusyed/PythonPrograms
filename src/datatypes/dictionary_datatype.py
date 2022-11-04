@@ -139,8 +139,11 @@ print(car.values())
  # dictionay.setdefault()
  # example :
 car = {
-  "brand": "Ford",
+  "brand": "Ford",  
   "model": "Mustang",
   "year": 1964
 }
 print(car.setdefault(" model" ,"ferrari"))
+
+
+
