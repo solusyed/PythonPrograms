@@ -1,6 +1,6 @@
-from src.MultiLevel.bicycle import BiCycle
-from src.MultiLevel.hero_honda import HeroHonda
-from src.MultiLevel.vehicle import Vehicle
+from src.inheritance.MultiLevel.bicycle import BiCycle
+from src.inheritance.MultiLevel.hero_honda import HeroHonda
+from src.inheritance.MultiLevel.vehicle import Vehicle
 
 
 class TwoWheeler(Vehicle):
