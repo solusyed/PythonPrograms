@@ -1,4 +1,4 @@
-from src.inheritance.MultiLevel.two_wheeler import TwoWheeler
+from src.inheritance.multilevel_inheritance.two_wheeler import TwoWheeler
 
 tw = TwoWheeler('bike', True)
 # tw.set_vehicle_object()

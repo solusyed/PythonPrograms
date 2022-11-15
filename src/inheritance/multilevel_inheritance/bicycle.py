@@ -1,4 +1,4 @@
-from src.inheritance.MultiLevel.vehicle import Vehicle
+from src.inheritance.multilevel_inheritance.vehicle import Vehicle
 
 
 class BiCycle(Vehicle):

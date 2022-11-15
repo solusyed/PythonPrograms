@@ -1,4 +1,4 @@
-from src.inheritance.hybrid.child1 import Child1
+from src.inheritance.hybrid_inheritance.child_one import Child1
 
 
 class Subchild1(Child1):

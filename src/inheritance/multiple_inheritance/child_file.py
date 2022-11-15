@@ -1,5 +1,5 @@
-from src.inheritance.Multiplr.parent1_file import Parent1File
-from src.inheritance.Multiplr.parent_file import ParentFile
+from src.inheritance.multiple_inheritance.parent1_file import Parent1File
+from src.inheritance.multiple_inheritance.parent_file import ParentFile
 
 
 class ChildFile(ParentFile, Parent1File):

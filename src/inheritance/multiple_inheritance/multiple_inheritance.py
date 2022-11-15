@@ -1,4 +1,4 @@
-from src.inheritance.Multiplr.child_file import ChildFile
+from src.inheritance.multiple_inheritance.child_file import ChildFile
 
 cf = ChildFile("name", "value", 1,2,3)
 print(cf.get_start())

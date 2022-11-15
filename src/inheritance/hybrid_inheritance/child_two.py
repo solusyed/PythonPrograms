@@ -1,4 +1,4 @@
-from src.inheritance.hybrid.ancistor import Ancistor
+from src.inheritance.hybrid_inheritance.ancistor import Ancistor
 
 
 class Child2(Ancistor):

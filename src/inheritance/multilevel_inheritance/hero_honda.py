@@ -1,4 +1,4 @@
-from src.inheritance.MultiLevel.bike import Bike
+from src.inheritance.multilevel_inheritance.bike import Bike
 
 
 class HeroHonda(Bike):

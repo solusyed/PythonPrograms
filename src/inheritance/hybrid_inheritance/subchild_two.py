@@ -9,4 +9,3 @@ class Subchild2(Child1):
 
     def get_watches(self):
         return self.watches
-
